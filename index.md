@@ -1,7 +1,8 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /
+title: "Diego Romero"
 author_profile: true
+
 ---
 
 I am an assistant professor in the Department of Political Science at Utah State University (2023-2025). I will be joining the Lyndon B. Johnson School of Public Affairs at the University of Texas at Austin in the summer of 2025. I am also an affiliated researcher and former postdoctoral research associate at the University of Pennsylvania’s [PDRI-DevLab@Penn](https://pdri-devlab.upenn.edu/). I earned my PhD in Political Science from Duke University, specializing in Political Economy and Political Methodology, in May of 2022. I hold an M.A. in Economics from Duke University and a B.A in Economics from Chapman University.
