@@ -16,25 +16,15 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://scholar.google.com/citations?user=qOdEpGYAAAAJ&hl=en&oi=sra"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Duke University",
+      "area": "PhD in Political Science, 2022",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
@@ -42,8 +32,8 @@
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Duke University",
+      "area": "MA in Economics, 2016",
       "studyType": "",
       "startDate": "",
       "endDate": "2014",
@@ -51,8 +41,8 @@
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Chapman University",
+      "area": "BA in Economics, 2013",
       "studyType": "",
       "startDate": "",
       "endDate": "2012",
