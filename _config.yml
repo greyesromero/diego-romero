@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Diego Romero"
 title_separator          : "-"
 name                     : &name "Diego Romero"
-description              : &description "I am an assistant professor in the Department of Political Science at Utah State University (2023-2025)"
+description              : &description "I am an assistant professor in the Lyndon B. Johnson School of Public Affairs at the University of Texas at Austin."
 url                      : https://greyesromero.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/diego-romero" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,18 +26,18 @@ author:
   name             : "Diego Romero"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
-  position         : "Department of Political Science"
-  location         : "Utah"
-  employer         : "Utah State University"
+  position         : "Lyndon B. Johnson School of Public Affairs"
+  location         : "Texas"
+  employer         : "University of Texas at Austin"
   uri              : # URL
-  email            : "diego.mejiaromero@usu.edu" 
+  email            : "diego.romero@austin.utexas.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=qOdEpGYAAAAJ&hl=en&oi=sra"
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : https://orcid.org/0000-0002-3133-7904
   semantic         : # URL
   pubmed           : # url
   researchgate     : # URL
@@ -52,7 +52,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : https://bsky.app/profile/diegoromero.bsky.social
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
