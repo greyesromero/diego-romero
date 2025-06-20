@@ -1,10 +1,9 @@
 ---
-title: "Economic Insecurity and Deportees’ Decision to Re-migrate in a COVID-19 Era."
-category: forced
+title: "Autocratization and Media Responses to Government Repression of Journalism: Machine Learning Evidence from Tanzania."
+category: machine
 collection: research
-paperurl: "https://www.nowpublishers.com/article/Details/PIP-0027"
-citation: "For potential immigrants, the COVID-19 pandemic has reduced economic opportunities and increased risks both at home and abroad. We seek to understand how COVID-19 has impacted the calculations that govern one's decision to emigrate. Leveraging a unique panel survey of Guatemalans recently deported from the United States, we explore how COVID-19 has affected deportees' economic well-being and the intent to re-migrate. We find that while COVID-19 does not measurably decrease deportees' (already poor) current economic conditions, the pandemic increases expectations of bein g worse off in the next year and uncertainty about future economic conditions. Furthermore, the pandemic also increases uncertainty about whether deportees intend to re-migrate in the coming year. This increase in uncertainty reflects the increased difficulty potential migrants face in weighing relative opportunities and risks during a transnational crisis, even as one's expectations about economic well-being in the home country become more pessimistic."
+citation: "One crucial feature of the ongoing global wave of democratic backsliding is that aspiring autocrats seek to influence the media, oftentimes through legal restrictions on the press and social media. Yet little research has examined how formal and social media respond to those legal restrictions targeting the free flow of information. We develop an original argument linking key characteristics of media sources to the regulatory environment and examine how the content and sentiment of their coverage responds to restrictive media laws. We test our claims using an enormous corpus of electronic media in Tanzania and employ two state-of-the-art neural network models to classify the topics and sentiment of news stories. We then estimate diff-in-diff models exploiting a significant legal change that targeted media houses. We find that critical news sources censor the tone of their coverage, even as they continue to cover the same issues; we also find that international news sources are unable to fill the hole left by a critical domestic press. The paper sheds light on the conditions under which the press can be resilient in the face of legal threats."
 ---
 
-(With [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David Dow](https://sites.google.com/view/davidadow/home) and [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/))
-*Journal of Political Institutions and Political Economy*, 2(1): 1–21, 2021.
+(With [Serkant Adiguzel](https://serkantadiguzel.com/) and [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/)). *Working paper.*
+
