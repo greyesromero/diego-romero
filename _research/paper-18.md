@@ -2,6 +2,7 @@
 title: "The Revolution Starts at Home: Within Household Female Support and Women's Civic Engagement."
 category: gender
 collection: research
+order: 18
 citation: "In many low and middle income countries where social norms are gendered, patrilocality and multi-generational co-residence are common. How do relations among women within these multi-generational households impact women's political engagement? While multi-generational homes are typically thought to reinforce traditional norms, we highlight how support from other women within the household can challenge those norms and promote political engagement. We argue that the support of other women in the household is especially important when civic activities are communal in nature and women of the household can participate together. Importantly, support of other women of the household has the potential to offset the negative effects of lack of support of men, which has been documented to lower women's political engagement. Fielding a novel civic engagement conjoint combined with a priming experiment to 767 women in Guatemala, a patriarchal society with entrenched gender norms and multi-generational patrilocality, we show that when women consider engaging in civic activities, they value the support of other women in the household just as much as the support of men in the household. Thus, support from other women within the household can be a catalyst from women's civic mobilization."
 ---
 

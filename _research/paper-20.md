@@ -2,6 +2,7 @@
 title: "The Logic of Revolutions: Rational Choice Perspectives."
 category: other
 collection: research
+order: 20
 paperurl: "https://academic.oup.com/edited-volume/34674/chapter-abstract/295451888?redirectedFrom=fulltext"
 ---
 
