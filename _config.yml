@@ -13,7 +13,7 @@ title                    : "Diego Romero"
 title_separator          : "-"
 name                     : &name "Diego Romero"
 description              : &description "I am an assistant professor in the Lyndon B. Johnson School of Public Affairs at the University of Texas at Austin."
-url                      : https://greyesromero.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://diego-romero.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/diego-romero" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
