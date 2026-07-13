@@ -1,3 +1,5 @@
 <!-- start custom analytics snippet -->
-
+{% if jekyll.environment == "production" %}
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "fdea47c85dbc475eb565b2f7f2eb3222"}'></script><!-- End Cloudflare Web Analytics -->
+{% endif %}
 <!-- end custom analytics snippet -->
